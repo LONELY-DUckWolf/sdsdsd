@@ -1,0 +1,8 @@
+.pages-item {
+    margin-left: 50px;
+}
+
+.bur {
+    display: flex;
+    justify-content: space-between;
+}
